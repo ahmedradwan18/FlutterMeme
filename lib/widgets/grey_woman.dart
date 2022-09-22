@@ -83,7 +83,7 @@ class GreyWoman extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  bottom: 410,
+                  top: 150,
                   left: 50,
                   child: Transform.rotate(
                     angle: math.pi / 12.0,
