@@ -1,16 +1,7 @@
-# flutter_meme
+# Flutter Meme
 
-A new Flutter application.
+####
+# Doing some fun with Containers and Stacks
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![flutter mem](https://user-images.githubusercontent.com/38192189/191749449-4c6e85f7-ff7d-4404-933f-8dd0660af082.png)
